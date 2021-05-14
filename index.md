@@ -1,4 +1,4 @@
-# Windowsコマンド
+# Windows command
 
 * [home]
   * [ネットワーク]
